@@ -28,7 +28,7 @@ Here are some of the projects and topics I am currently working on:
 ## Goals
 
 - **Short-Term Goal:** Strengthen my programming fundamentals and gain hands-on experience in web security.
-- **Long-Term Goal:** Pursue a career in cybersecurity with a focus on web security.
+- **Long-Term Goal:** Pursue a career in cybersecurity with a focus on Cybersecurity Engineer.
 
 ## How to Reach Me
 
