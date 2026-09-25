@@ -32,9 +32,6 @@ Here are some of the projects and topics I am currently working on:
 
 ## How to Reach Me
 
-Feel free to connect with me:
-
-- **Email:** [minminpaingcom13@gmail.com](#)
 
 Stay tuned for more updates as I continue to learn and build projects!
 
